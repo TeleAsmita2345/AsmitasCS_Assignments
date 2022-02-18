@@ -1,0 +1,15 @@
+D:\C_SharpAssignments\Program4\bin\Debug\net5.0\Program4.exe
+D:\C_SharpAssignments\Program4\bin\Debug\net5.0\Program4.deps.json
+D:\C_SharpAssignments\Program4\bin\Debug\net5.0\Program4.runtimeconfig.json
+D:\C_SharpAssignments\Program4\bin\Debug\net5.0\Program4.runtimeconfig.dev.json
+D:\C_SharpAssignments\Program4\bin\Debug\net5.0\Program4.dll
+D:\C_SharpAssignments\Program4\bin\Debug\net5.0\ref\Program4.dll
+D:\C_SharpAssignments\Program4\bin\Debug\net5.0\Program4.pdb
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\Program4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\Program4.AssemblyInfoInputs.cache
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\Program4.AssemblyInfo.cs
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\Program4.csproj.CoreCompileInputs.cache
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\Program4.dll
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\ref\Program4.dll
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\Program4.pdb
+D:\C_SharpAssignments\Program4\obj\Debug\net5.0\Program4.genruntimeconfig.cache
